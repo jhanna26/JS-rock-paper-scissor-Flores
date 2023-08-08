@@ -11,7 +11,7 @@
     border-radius: 50px;
 }
 #rockBtn{
-    background-image: url(/assets/image/rock.jpg);
+    background-image: url(../image/rock.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -19,7 +19,7 @@
 }
 
 #paperBtn{
-    background-image: url(/assets/image/paper.jpg);
+    background-image: url(../image/paper.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -27,7 +27,7 @@
 
 }
 #scissorBtn{
-    background-image: url(/assets/image/scissor2.jpg);
+    background-image: url(../image/scissor.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
